@@ -1,0 +1,26 @@
+<root>
+  <Usuario>
+    <nombre>wer</nombre>
+    <apellido>rer</apellido>
+    <cedula>V-ere</cedula>
+    <email>DSDS@gmail.com</email>
+    <direccion>sdsds</direccion>
+    <clave>sdsd</clave>
+    <seudonimo>ASD</seudonimo>
+    <freg>24/12/2014</freg>
+    <fnac>3/Marzo/Item 2</fnac>
+    <rol>Usuario</rol>
+  </Usuario>
+  <Usuario>
+    <nombre>qwe</nombre>
+    <apellido>wew</apellido>
+    <cedula>V-fgf</cedula>
+    <email>XCXC@hotmail.com</email>
+    <direccion>dsdsd</direccion>
+    <clave>dsdsdsd</clave>
+    <seudonimo>DER</seudonimo>
+    <freg>24/12/2014</freg>
+    <fnac>2/Marzo/Item 2</fnac>
+    <rol>Usuario</rol>
+  </Usuario>
+</root>
