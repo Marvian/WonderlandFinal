@@ -1,0 +1,9 @@
+<root>
+  <Producto>
+    <Nombre>celular</Nombre>
+    <Descripcion>holaaaaaaa</Descripcion>
+    <Monto>123</Monto>
+    <Cantidad>4</Cantidad>
+    <Serial>973</Serial>
+  </Producto>
+</root>
